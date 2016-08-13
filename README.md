@@ -4,7 +4,7 @@ An experimental framework to support experiments in CIKM 2016 paper "User Respon
 If you have any problem, please [send an E-mail](mailto:kren@apex.sjtu.edu.cn) to [Kan Ren](http://apex.sjtu.edu.cn/members/kren).
 
 ## Datasets
-* `iPinYou` has been decribed as [here](https://github.com/wnzhang/make-ipinyou-data)
+* `iPinYou` has been decribed in [this page](https://github.com/wnzhang/make-ipinyou-data).
 * `YOYI` is the newly published dataset in our CIKM paper. The detail of this dataset is [here](http://apex.sjtu.edu.cn/datasets/7).
 
 ## Format of data
