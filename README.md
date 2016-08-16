@@ -1,5 +1,5 @@
 # Optimal CTR bidding
-An experimental framework to support experiments in CIKM 2016 paper "User Response Learning for Directly Optimizing Campaign Performance in Display Advertising". [link](TBD)
+An experimental framework to support experiments in CIKM 2016 paper "User Response Learning for Directly Optimizing Campaign Performance in Display Advertising". [PDF](http://apex.sjtu.edu.cn/public/files/papers/20160817/opt-ctr-bid.pdf)
 
 If you have any problem, please [send an E-mail](mailto:kren@apex.sjtu.edu.cn) to [Kan Ren](http://apex.sjtu.edu.cn/members/kren).
 
