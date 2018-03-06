@@ -47,3 +47,13 @@ Other details of `yzx` data can be found in [this benchmarking paper](http://arx
   organization={ACM}
 }
 ```
+
+```
+@article{ren2017bidding,
+  title={Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising},
+  author={Ren, Kan and Zhang, Weinan and Chang, Ke and Rong, Yifei and Yu, Yong and Wang, Jun},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2017},
+  publisher={IEEE}
+}
+```
