@@ -35,3 +35,15 @@ Other details of `yzx` data can be found in [this benchmarking paper](http://arx
 ## Run the code
 * Go to `script` folder and execute `run_MODEL` scripts, where `MODEL` is a placeholder of model names including "lr", "sqlr", "eu" and "rr". Details of the models can be found in our paper.
 * Example: ```sh run-lr.sh "1458 2261 2821"```
+
+## Citation
+```
+@inproceedings{ren2016user,
+  title={User response learning for directly optimizing campaign performance in display advertising},
+  author={Ren, Kan and Zhang, Weinan and Rong, Yifei and Zhang, Haifeng and Yu, Yong and Wang, Jun},
+  booktitle={Proceedings of the 25th ACM International on Conference on Information and Knowledge Management},
+  pages={679--688},
+  year={2016},
+  organization={ACM}
+}
+```
